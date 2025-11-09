@@ -21,22 +21,22 @@ It provides actionable insights for decision-making by identifying the best and 
 --- 
 
 ## Key Insights
-Total Revenue: ₹817.86K
-Total Orders: 21,350
-Total Pizzas Sold: 49.57K
-Average Order Value: ₹38.31
-Top-Selling Pizza: The Thai Chicken Pizza
-Most Popular Size: Large (45.89% of sales)
-Peak Sales Day: Friday
-Highest Sales Month: July
+- Total Revenue: ₹817.86K
+- Total Orders: 21,350
+- Total Pizzas Sold: 49.57K
+- Average Order Value: ₹38.31
+- Top-Selling Pizza: The Thai Chicken Pizza
+- Most Popular Size: Large (45.89% of sales)
+- Peak Sales Day: Friday
+- Highest Sales Month: July
 
 --- 
 
 ## Tools & Technologies
-Tools                 	Purpose
-SQL Server	           Data cleaning, KPI calculation, and trend analysis
-Power BI	             Data visualization and dashboard design
-Excel	                 Data preprocessing and initial exploration
+- Tools                 	Purpose
+- SQL Server	           Data cleaning, KPI calculation, and trend analysis-
+- Power BI	             Data visualization and dashboard design
+- Excel	                 Data preprocessing and initial exploration
 
 --- 
 
