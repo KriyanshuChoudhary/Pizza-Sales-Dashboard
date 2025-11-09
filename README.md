@@ -33,10 +33,11 @@ It provides actionable insights for decision-making by identifying the best and 
 --- 
 
 ## Tools & Technologies
-- Tools                 	Purpose
-- SQL Server	           Data cleaning, KPI calculation, and trend analysis-
-- Power BI	             Data visualization and dashboard design
-- Excel	                 Data preprocessing and initial exploration
+| Tool | Purpose |
+|------|----------|
+| **SQL Server** | Data cleaning, KPI calculation, and trend analysis |
+| **Power BI** | Data visualization and dashboard design |
+| **Excel** | Data preprocessing and initial exploration |
 
 --- 
 
