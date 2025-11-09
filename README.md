@@ -1,2 +1,3 @@
 # Pizza-Sales-Dashboard
-End-to-end Pizza Sales analysis using SQL + Power BI | Data-driven insights, KPIs, and interactive dashboards
+Interactive Pizza Sales Dashboard built using SQL Server and Power BI to analyze key business metrics — including revenue, orders, and product performance.
+Features include KPI tracking, trend analysis, and identification of top & bottom-selling pizzas for data-driven insights.
